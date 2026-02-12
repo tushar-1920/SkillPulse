@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>SkillPulse AI</title>
+    <link rel="stylesheet"
+          href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="logo">SkillPulse AI</div>
+
+    <ul class="nav-links">
+        <li><a href="/">Home</a></li>
+        <li><a href="/dashboard">Dashboard</a></li>
+        <li><a href="/upload">Resume Gap</a></li>
+    </ul>
+</nav>
+
+<div class="page">
+    {% block content %}{% endblock %}
+</div>
+
+</body>
+</html>

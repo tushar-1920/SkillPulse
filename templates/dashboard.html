@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<h2>Job Market – Top Skills</h2>
+
+<div class="table-card">
+
+    <table>
+        <thead>
+        <tr>
+            <th>Skill</th>
+            <th>Demand Count</th>
+        </tr>
+        </thead>
+
+        <tbody>
+        {% for row in top_skills %}
+            <tr>
+                <td>{{ row.skill }}</td>
+                <td>{{ row.count }}</td>
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+
+</div>
+
+{% endblock %}

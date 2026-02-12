@@ -1,0 +1,40 @@
+python
+java
+c++
+c
+sql
+mysql
+postgresql
+mongodb
+pandas
+numpy
+scikit-learn
+sklearn
+tensorflow
+keras
+flask
+django
+fastapi
+machine learning
+deep learning
+nlp
+natural language processing
+data science
+data analysis
+power bi
+tableau
+excel
+git
+github
+docker
+linux
+aws
+azure
+gcp
+html
+css
+javascript
+react
+statistics
+matplotlib
+seaborn

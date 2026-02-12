@@ -1,0 +1,29 @@
+job_id,skill,normalized_skill
+0,pandas,pandas
+0,tableau,tableau
+0,git,git
+0,aws,aws
+0,mysql,mysql
+0,machine learning,machine learning
+0,data science,data science
+0,mongodb,mongodb
+0,power bi,power bi
+0,numpy,numpy
+0,azure,azure
+0,python,python
+0,gcp,gcp
+0,c,c
+0,statistics,statistics
+0,sql,sql
+1,linux,linux
+1,aws,aws
+1,java,java
+1,c,c
+1,sql,sql
+2,c,c
+2,machine learning,machine learning
+2,excel,excel
+3,c,c
+3,excel,excel
+3,sql,sql
+3,python,python
